@@ -1040,3 +1040,16 @@ h4 {
         text-align: center;
     }
 }
+
+.keywords {
+    color:#cccccc;
+    font-size:1px;
+}
+
+.text-size {
+    font-size: 2rem;
+    margin: 0 10%;
+}
+.text-modif {
+    font-style: italic;
+}

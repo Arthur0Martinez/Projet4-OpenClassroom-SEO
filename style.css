@@ -92,6 +92,8 @@ a:hover {
 .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
+    background-color: #000000;
+    opacity: 0%;
 }
 
 .b-parallax {
@@ -648,6 +650,10 @@ a {
 .hero-bloc-text {
     font-size: 38px;
 }
+.black-bcd {
+    background-color: #000000a9;
+    border-radius: 25px;
+}
 
 .hero-bloc-text-sub {
     font-size: 36px;
@@ -806,6 +812,7 @@ h4 {
 
 .bg-banniere {
     background-image: url("img/agence-la-panthere.jpg");
+
 }
 
 .bg-presentation {
